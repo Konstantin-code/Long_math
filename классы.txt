@@ -1,8 +1,0 @@
-package Long_math;
-public class Head{}
-protected class Counting {}
-public class Multiplicate extends Counting{}
-public class Summary extends Counting{}
-public class Submission extends Counting{}
-public class Long_number{}
-
