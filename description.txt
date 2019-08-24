@@ -1,0 +1,24 @@
+//2019-08-25
+//выложил файлы классов
+
+//пакет проекта
+package Long_math;
+
+//точка входа
+public class Head{}
+
+//класс для использования алгоритма вычисления
+protected class Counting {}
+
+//класс для использования умножения  
+public class Multiplicate extends Counting{}
+
+//класс для использования сложения  
+public class Summary extends Counting{}
+
+//класс для использования вычитания
+public class Submition extends Counting{}
+
+//класс для длинного значения
+public class Long_number{}
+
